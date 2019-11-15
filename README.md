@@ -9,5 +9,6 @@
 
 	 - [www.openalpr.com](https://www.openalpr.com/index.html)	
 	 - [command line ](https://pypi.org/project/openalpr/)
+	   `pip install openalpr`
  -  resident.txt file 
 	 - which should include all the **acceptable number** of vehicle **number plate**
